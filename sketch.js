@@ -20,7 +20,7 @@ function setup() {
     //
 	rectMode(CENTER);
 	
-    wall1=createSprite(100, 500, 5,10);
+    wall1=createSprite(100, 500, 5 ,10);
 	wall1.shapeColor="red";
 
 	packageSprite=createSprite(width/2, 80, 10,10);
